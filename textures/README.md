@@ -1,1 +1,1 @@
-#Aqui são as texturas
+#Aqui são a textura
