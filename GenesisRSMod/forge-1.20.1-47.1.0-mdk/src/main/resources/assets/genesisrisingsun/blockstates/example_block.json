@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "genesisrisingsun:block/example_block"
+    }
+  }
+}
