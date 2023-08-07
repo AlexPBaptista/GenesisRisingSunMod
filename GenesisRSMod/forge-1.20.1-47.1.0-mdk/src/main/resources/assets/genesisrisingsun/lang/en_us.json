@@ -5,6 +5,18 @@
   "item.genesisrisingsun.pork_beef": "Pork Beef",
   "item.genesisrisingsun.tomato": "Tomato",
   "item.genesisrisingsun.wither_shard": "Wither Shard",
+
   "block.genesisrisingsun.example_block": "Example Block",
-  "itemGroup.GenesisRisingSun": "Genesis Rising Sun"
+
+  "itemGroup.GenesisRisingSun": "Genesis Rising Sun",
+
+  "item.genesisrisingsun.golemite_sword": "Golemite Sword",
+  "item.genesisrisingsun.golemite_pickaxe": "Golemite Pickaxe",
+  "item.genesisrisingsun.golemite_axe": "Golemite Axe",
+  "item.genesisrisingsun.golemite_shovel": "Golemite Shovel",
+  "item.genesisrisingsun.golemite_hoe": "Golemite Hoe",
+  "item.genesisrisingsun.golemite_helmet": "Golemite Helmet",
+  "item.genesisrisingsun.golemite_chestplate": "Golemite Chesplate",
+  "item.genesisrisingsun.golemite_leggings": "Golemite Leggings",
+  "item.genesisrisingsun.golemite_boots": "Golemite Boots"
 }

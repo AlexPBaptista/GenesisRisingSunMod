@@ -67,5 +67,94 @@ public class ItemInit {
                     new Item.Properties()
             )));
 
-    public static final RegistryObject<SwordItem> 
+
+    // Swords
+    public static final RegistryObject<SwordItem> GOLEMITE_SWORD = addToTab(ITEMS.register(
+            "golemite_sword",
+            () -> new SwordItem(
+                    TiersInit.SIMPLE,
+                    8,
+                    1.6f,
+                    new Item.Properties()
+            )));
+
+    // Pickaxe
+    public static final RegistryObject<PickaxeItem> GOLEMITE_PICKAXE = addToTab(ITEMS.register(
+            "golemite_pickaxe",
+            () -> new PickaxeItem(
+                    TiersInit.SIMPLE,
+                    8,
+                    1.6f,
+                    new Item.Properties()
+            )));
+
+    // Axe
+    public static final RegistryObject<AxeItem> GOLEMITE_AXE = addToTab(ITEMS.register(
+            "golemite_axe",
+            () -> new AxeItem(
+                    TiersInit.SIMPLE,
+                    8,
+                    1.6f,
+                    new Item.Properties()
+            )));
+
+    //Shovel
+    public static final RegistryObject<AxeItem> GOLEMITE_SHOVEL = addToTab(ITEMS.register(
+            "golemite_shovel",
+            () -> new AxeItem(
+                    TiersInit.SIMPLE,
+                    8,
+                    1.6f,
+                    new Item.Properties()
+            )));
+
+    // Hoe
+    public static final RegistryObject<HoeItem> GOLEMITE_HOE = addToTab(ITEMS.register(
+            "golemite_hoe",
+            () -> new HoeItem(
+                    TiersInit.SIMPLE,
+                    8,
+                    1.6f,
+                    new Item.Properties()
+            )));
+
+    // Helmet
+
+    public static final RegistryObject<ArmorItem> GOLEMITE_HELMET = addToTab(ITEMS.register(
+            "golemite_helmet",
+            () -> new ArmorItem(
+                    ArmorMaterialInit.GOLEMITE,
+                    ArmorItem.Type.HELMET,
+                    new Item.Properties()
+            )));
+
+    // Chestplate
+
+    public static final RegistryObject<ArmorItem> GOLEMITE_CHESTPLATE = addToTab(ITEMS.register(
+            "golemite_chestplate",
+            () -> new ArmorItem(
+                    ArmorMaterialInit.GOLEMITE,
+                    ArmorItem.Type.CHESTPLATE,
+                    new Item.Properties()
+            )));
+    // Leggings
+
+    public static final RegistryObject<ArmorItem> GOLEMITE_LEGGINGS = addToTab(ITEMS.register(
+            "golemite_leggings",
+            () -> new ArmorItem(
+                    ArmorMaterialInit.GOLEMITE,
+                    ArmorItem.Type.LEGGINGS,
+                    new Item.Properties()
+            )));
+    // Boots
+
+    public static final RegistryObject<ArmorItem> GOLEMITE_BOOTS = addToTab(ITEMS.register(
+            "golemite_boots",
+            () -> new ArmorItem(
+                    ArmorMaterialInit.GOLEMITE,
+                    ArmorItem.Type.BOOTS,
+                    new Item.Properties()
+            )));
+
+
 }

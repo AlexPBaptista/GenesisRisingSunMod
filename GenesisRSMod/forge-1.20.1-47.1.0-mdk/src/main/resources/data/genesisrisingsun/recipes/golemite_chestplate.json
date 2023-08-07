@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "G G",
+    "GGG",
+    "GGG"
+  ],
+  "key": {
+    "G": {
+      "item": "genesisrisingsun:golemite_ingot"
+    }
+  },
+  "result": {
+    "item": "genesisrisingsun:golemite_chestplate",
+    "count": 1
+  }
+}

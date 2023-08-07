@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "G G",
+    "G G"
+  ],
+  "key": {
+    "G": {
+      "item": "genesisrisingsun:golemite_ingot"
+    }
+  },
+  "result": {
+    "item": "genesisrisingsun:golemite_boots",
+    "count": 1
+  }
+}
