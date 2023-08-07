@@ -5,5 +5,6 @@
   "item.genesisrisingsun.pork_beef": "Pork Beef",
   "item.genesisrisingsun.tomato": "Tomato",
   "item.genesisrisingsun.wither_shard": "Wither Shard",
-  "block.genesisrisingsun.example_block": "Example Block"
+  "block.genesisrisingsun.example_block": "Example Block",
+  "itemGroup.GenesisRisingSun": "Genesis Rising Sun"
 }
