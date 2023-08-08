@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "genesisrisingsun:item/golemite_hoe"
+  }
+}

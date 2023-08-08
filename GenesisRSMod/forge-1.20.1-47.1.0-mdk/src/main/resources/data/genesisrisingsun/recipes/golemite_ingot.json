@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ggg",
+    "ggg",
+    "ggg"
+  ],
+  "key": {
+    "g": {
+      "item": "genesisrisingsun:golemite_nugget"
+    }
+  },
+  "result": {
+    "item": "genesisrisingsun:golemite_ingot",
+    "count": 1
+  }
+}
