@@ -2,6 +2,7 @@ package dev.f1r3k1ll3r.genesisrisingsun;
 
 import dev.f1r3k1ll3r.genesisrisingsun.init.BlockInit;
 import dev.f1r3k1ll3r.genesisrisingsun.init.CreativeTabInit;
+import dev.f1r3k1ll3r.genesisrisingsun.init.EntityInit;
 import dev.f1r3k1ll3r.genesisrisingsun.init.ItemInit;
 import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.fml.common.Mod;
@@ -17,6 +18,6 @@ public class GenesisRisingSun {
         ItemInit.ITEMS.register(bus);
         BlockInit.BLOCKS.register(bus);
         CreativeTabInit.TABS.register(bus);
-
+        EntityInit.ENTITIES.register(bus);
     }
 }
