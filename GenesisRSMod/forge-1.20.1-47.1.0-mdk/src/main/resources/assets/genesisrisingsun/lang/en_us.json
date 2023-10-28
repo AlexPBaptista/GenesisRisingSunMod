@@ -5,6 +5,10 @@
   "item.genesisrisingsun.pork_beef": "Pork Beef",
   "item.genesisrisingsun.tomato": "Tomato",
   "item.genesisrisingsun.wither_shard": "Wither Shard",
+  "item.genesisrisingsun.super_nether_star": "Super Nether Star",
+  "item.genesisrisingsun.super_wither_shard": "Super Wither Shard",
+  "item.genesisrisingsun.wither_bone": "Wither Bone",
+  "item.genesisrisingsun.wither_staff": "Wither Staff",
 
   "block.genesisrisingsun.example_block": "Example Block",
 
@@ -18,5 +22,7 @@
   "item.genesisrisingsun.golemite_helmet": "Golemite Helmet",
   "item.genesisrisingsun.golemite_chestplate": "Golemite Chesplate",
   "item.genesisrisingsun.golemite_leggings": "Golemite Leggings",
-  "item.genesisrisingsun.golemite_boots": "Golemite Boots"
+  "item.genesisrisingsun.golemite_boots": "Golemite Boots",
+
+  "entity.genesisrisingsun.portal_guardian": "Portal Guardian"
 }

@@ -58,6 +58,26 @@ public class ItemInit {
             () -> new Item(
                     new Item.Properties()
             )));
+    public static final RegistryObject<Item> SUPER_NETHER_STAR = addToTab(ITEMS.register(
+            "super_nether_star",
+            () -> new Item(
+                    new Item.Properties()
+            )));
+    public static final RegistryObject<Item> SUPER_WITHER_SHARD = addToTab(ITEMS.register(
+            "super_wither_shard",
+            () -> new Item(
+                    new Item.Properties()
+            )));
+    public static final RegistryObject<Item> WITHER_BONE = addToTab(ITEMS.register(
+            "wither_bone",
+            () -> new Item(
+                    new Item.Properties()
+            )));
+    public static final RegistryObject<Item> WITHER_STAFF = addToTab(ITEMS.register(
+            "wither_staff",
+            () -> new Item(
+                    new Item.Properties()
+            )));
 
     // BlockItem
 

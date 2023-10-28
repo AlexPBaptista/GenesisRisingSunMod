@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "genesisrisingsun:item/super_nether_star"
+  }
+}
